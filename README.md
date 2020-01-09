@@ -2,6 +2,10 @@
 Algorithm 스터디는 매주 수요일 오후 12시에서 1시까지 1시간동안 진행합니다.
 매주 출제자는 2개의 Algorithm 문제를 LeetCode(https://leetcode.com/problemset/all/) 에서 출제합니다.
 
+## 2020.01.15
+* [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+* [Course Schedule] (https://leetcode.com/problems/course-schedule/)
+
 ## 2020.01.08
 * [can I win](https://leetcode.com/problems/can-i-win/)
 * [dungeon game](https://leetcode.com/problems/dungeon-game/)
