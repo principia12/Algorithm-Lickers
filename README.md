@@ -2,6 +2,12 @@
 Algorithm 스터디는 매주 수요일 오후 12시에서 1시까지 1시간동안 진행합니다.
 매주 출제자는 2개의 Algorithm 문제를 LeetCode(https://leetcode.com/problemset/all/) 에서 출제합니다.
 
+## 2020.02.05
+* [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)
+* [https://leetcode.com/problems/falling-squares/] (https://leetcode.com/problems/falling-squares/)
+## 2020.01.29
+* [Gray Code](https://leetcode.com/problems/gray-code/) 
+* [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 ## 2020.01.21
 * [Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/)
 * [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
