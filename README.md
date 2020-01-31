@@ -4,7 +4,7 @@ Algorithm 스터디는 매주 수요일 오후 12시에서 1시까지 1시간동
 
 ## 2020.02.05
 * [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)
-* [https://leetcode.com/problems/falling-squares/] (https://leetcode.com/problems/falling-squares/)
+* [https://leetcode.com/problems/falling-squares/](https://leetcode.com/problems/falling-squares/)
 ## 2020.01.29
 * [Gray Code](https://leetcode.com/problems/gray-code/) 
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
